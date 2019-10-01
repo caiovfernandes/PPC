@@ -1,0 +1,16 @@
+;#include <iostream>
+
+using namespace std;
+
+int main(){
+    string s1,s2;
+    cin>>s1>>s2;
+    string aux;
+    aux = reverse(s.begin(),s.end());
+    if(aux==s2){
+        cout<<"YES"<<endl;
+    }
+    cout<<"NO"<<endl;
+
+    return 0;
+}
